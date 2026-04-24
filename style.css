@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: rgb(219, 138, 215);
+    background-color: rgb(67, 187, 97);
     font-family: "Arial", sans-serif;
 }
 
@@ -11,15 +11,15 @@ h1 {
 button {
     padding: 10px;
     font-size: 18px;
-    background-color: rgb(238, 37, 37);
-    color: rgb(239, 240, 234);
+    background-color: rgb(248, 244, 244);
+    color: rgb(62, 196, 129);
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: rgb(75, 3, 3);
+    background-color: rgb(216, 187, 187);
 }
 
 .result {
